@@ -1,9 +1,9 @@
 <div align="center">
 
-## Its_me_Richuser
+## Its_me_Jobin
 
 <div align="center">
-  <img src=richusher.jpg>
+  <img src=IMG-20211214-WA0011.jpg>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Richuser
+### Its_me_Jobin
 
 
 ### ⚠️ Warning! 
@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Richuser](<img src=b1.jpg.jpg>
- https://github.com/Richuser_b1 |  
+  [![Jobin](<img src=IMG-20211214-WA0012.jpg>
+ https://github.com/Jobin_b1 |  
 ----|
-[Its_me_Richu](https://github.com/Richuser_b1)  |
+[Its_me_Jobin](https://github.com/Jobin_b1)  |
 Base, Bug Fixes, Modules | 
   
     
