@@ -6,11 +6,11 @@ Marketplace
 Explore
  
 @richusir 
-richusir
+JOBIN
 /
-RICHUSER_B1
+JOBIN_B1
 Public
-forked from richusir/RICHUSER_B1
+forked from jobin/JOBIN_B1
 0
 1121
 Code
@@ -21,13 +21,13 @@ Wiki
 Security
 Insights
 Settings
-RICHUSER_B1/bot.js /
+JOBIN_B1/bot.js /
 @richusir
-richusir Create bot.js
+jobin Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
  11 contributors
-@farhan-dqz@phaticusthiccy@yusufusta@richusir@lyfe00011@MuhammedKpln@saidalisaid2@afnanplk@Xenon67@oguz162@justinthoms
+@farhan-dqz@phaticusthiccy@yusufusta@jobin@lyfe00011@MuhammedKpln@saidalisaid2@afnanplk@Xenon67@oguz162@justinthoms
 274 lines (239 sloc)  11.5 KB
   
 /* Copyright (C) 2020 Yusuf Usnta.
@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'RICHUSERBOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'JOBINBOT_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
